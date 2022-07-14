@@ -1,0 +1,13 @@
+body {
+    background-color: transparent;
+}
+
+.jumbotron {
+    background-color:transparent !important;
+}
+
+#top-jumbo { 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px; 
+}
